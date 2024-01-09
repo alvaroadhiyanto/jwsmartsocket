@@ -32,10 +32,9 @@ CTBotInlineKeyboard TbLp1on, TbLp2on, TbLp3on, TbLp4on, TbLp1off, TbLp2off, TbLp
 
  bool TampilkanTombol;
               
- String ssid = "alvaro";
- String pass = "sayaganteng";
- String token =
-"6615671032:AAGb1bZT16RHhPjDqIsmQRDssTXXzATJbp0";
+ String ssid = "yourssid";
+ String pass = "yourpass";
+ String token = "yourtelegramtoken";
 
 void setup() {
   
